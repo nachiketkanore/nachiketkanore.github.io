@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nachiket Kanore</title>
+    <link>https://nachiketkanore.github.io/</link>
+    <description>Recent content on Nachiket Kanore</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Sun, 08 Jan 2023 11:30:09 +0530</lastBuildDate><atom:link href="https://nachiketkanore.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>23 Is Over</title>
+      <link>https://nachiketkanore.github.io/posts/23-is-over/</link>
+      <pubDate>Sun, 08 Jan 2023 11:30:09 +0530</pubDate>
+      
+      <guid>https://nachiketkanore.github.io/posts/23-is-over/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development/PC Environment</title>
+      <link>https://nachiketkanore.github.io/posts/dev-environment/</link>
+      <pubDate>Mon, 14 Feb 2022 20:55:53 +0530</pubDate>
+      
+      <guid>https://nachiketkanore.github.io/posts/dev-environment/</guid>
+      <description> Neovim - Text Editor Nvim-LSP for code completions and diagnostics Gruvbox + Github Dark theme TreeSitter provides better syntax highlighting AutoPairs for bracket matching NvimTree for file tree navigation Rust Tools + Rust-analyzer for Rust development Telescope for fuzzy finding files and occurences I3wm - Tiling Window Manager Very fast Mapped to vim-keybindings Kitty - Terminal Emulator Highly customizable terminal GPU support Alacritty - Terminal Emulator st - Suckless&amp;rsquo;s Terminal Emulator Fastest terminal oh-my-zsh - Shell with extra plugins Autosuggestions Autocompletions History Better colors Mozilla Firefox OBS studio screenkey for recording keystrokes and display on screen arandr Handling multiple screen, management </description>
+    </item>
+    
+    <item>
+      <title>Competitive Programming</title>
+      <link>https://nachiketkanore.github.io/posts/competitive-programming/</link>
+      <pubDate>Mon, 14 Feb 2022 18:06:15 +0530</pubDate>
+      
+      <guid>https://nachiketkanore.github.io/posts/competitive-programming/</guid>
+      <description> Expert rated on Codeforces 5 star rated on CodeChef Rank 43 - ICPC Kanpur-Mathura Regionals 2020 Certificate Kick Start Round D 2020 - World Rank 621 Certificate Solved more than 3000 competitive programming problems Check out my online coding profiles: StopStalk Codeforces CodeChef HackerRank AtCoder SPOJ HackerEarth LeetCode BinarySearch.com Level 4 (Solved 100+ problems) - Project Euler Profile </description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://nachiketkanore.github.io/about/</link>
+      <pubDate>Mon, 14 Feb 2022 17:16:06 +0530</pubDate>
+      
+      <guid>https://nachiketkanore.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nachiketkanore.github.io/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nachiketkanore.github.io/home/</guid>
+      <description>hey there</description>
+    </item>
+    
+  </channel>
+</rss>

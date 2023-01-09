@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Nachiket Kanore</title>
+    <link>https://nachiketkanore.github.io/tags/</link>
+    <description>Recent content in Tags on Nachiket Kanore</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Sun, 08 Jan 2023 11:30:09 +0530</lastBuildDate><atom:link href="https://nachiketkanore.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>experiences</title>
+      <link>https://nachiketkanore.github.io/tags/experiences/</link>
+      <pubDate>Sun, 08 Jan 2023 11:30:09 +0530</pubDate>
+      
+      <guid>https://nachiketkanore.github.io/tags/experiences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>https://nachiketkanore.github.io/tags/development/</link>
+      <pubDate>Mon, 14 Feb 2022 20:55:53 +0530</pubDate>
+      
+      <guid>https://nachiketkanore.github.io/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>https://nachiketkanore.github.io/tags/tech/</link>
+      <pubDate>Mon, 14 Feb 2022 20:55:53 +0530</pubDate>
+      
+      <guid>https://nachiketkanore.github.io/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cp</title>
+      <link>https://nachiketkanore.github.io/tags/cp/</link>
+      <pubDate>Mon, 14 Feb 2022 18:06:15 +0530</pubDate>
+      
+      <guid>https://nachiketkanore.github.io/tags/cp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
